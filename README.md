@@ -179,7 +179,7 @@ Project Link: [https://github.com/BhavyanshJain/amazon-clone](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[license-shield]: https://img.shields.io/github/license/BhavyanshJain/amazon-clone
+[license-shield]: https://img.shields.io/github/license/BhavyanshJain/amazon-clone.svg?style=flat
 [license-url]: https://github.com/BhavyanshJain/amazon-clone/blob/master/LICENSE
 [next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [nextjs-url]: https://nextjs.org/
